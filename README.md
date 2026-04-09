@@ -1,4 +1,4 @@
-# SwasthiQ Pharmacy Management System
+#  Pharmacy Management System
 
 This is a pharmacy management dashboard I built using FastAPI for the backend and React (with Vite) on the frontend. It uses SQLite for storage and has a dark-themed UI.
 
